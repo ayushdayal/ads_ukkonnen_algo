@@ -322,6 +322,7 @@ int main(int argc, char *argv[])
 {
     strcpy(text, "abbc"); buildSuffixTree();
     printf("Number of nodes in suffix tree are %d\n",count);
+    // comment
     return 0;
 }
 
